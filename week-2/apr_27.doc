@@ -1,0 +1,23 @@
+Multi Line comments don't exist, it is a multi line string that isn't declared so the code does nothing with it when it's run
+
+"""
+This
+is
+a
+multi
+line
+string
+"""
+
+in order to print do:
+
+var = f"""
+This
+is
+a
+multi
+line
+string
+"""
+
+print(var)

@@ -1,0 +1,26 @@
+print('Hello!')
+
+# this will print 'Hello!' to the console
+
+"""
+
+Make sure not to have spaces or caps in file or folder names. Use - or _ instead
+
+# is a single lie 
+
+3 double quotes is a multi line quote
+
+"""
+
+As much as possible name things out
+Hard code can never change, typically avoid this
+
+array = list
+
+"clear" will empty the code
+"cd" will change the directory to the location you currently have entered
+\n in a formatted string will start a new line
+
+int = whole number
+string = "any quantity of characters"
+boolean = True or False
